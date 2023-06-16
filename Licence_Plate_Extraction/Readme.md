@@ -17,7 +17,13 @@ The ipython [notebook](./License_Plate_Extraction.ipynb) mentioned was divided i
 - Currently Yolov5 small is taken for training 
 - The ultralytics yolov5 is being used
 
-### Output 
+### Final Output 
 
 The following image is output after the license extraction 
+
+
 <img src="./image_output.jpg" width="480">
+
+### To Do: 
+- Implement easyOCR
+- include video and threading
