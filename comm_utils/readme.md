@@ -27,4 +27,4 @@ python video_to_gif.py -v ./data/test.mp4 -o ./data/out_gif.gif -f ./data/footer
 The output will be like this:
 
 
-< img src="./data/out_gif.gif" width="320">
+<img src = "./data/out_gif.gif" width="320">
